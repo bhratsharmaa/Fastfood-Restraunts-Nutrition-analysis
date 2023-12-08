@@ -17,7 +17,9 @@
  # Restraunts nutrition analysis
 
 ## Project Description:
-This project involved collecting and importing nutritional data from a variety of restaurants into a MySQL database. Utilizing advanced SQL queries, I conducted a comprehensive analysis to reveal valuable insights. Subsequently, I created an interactive dashboard using Microsoft Power BI, enabling users to select and compare the nutritional content of menu items from different restaurants. The dashboard boasts an intuitive interface with slicing functionality, allowing users to easily explore the nutrition profiles of menu items. This project serves as a valuable resource for health-conscious consumers and restaurant stakeholders seeking to make informed decisions about their menu offerings, offering a comprehensive nutritional analysis for each selected restaurant.
+
+This project involved collecting and importing nutritional data of variety of restaurants into a MySQL database. Utilizing advanced SQL queries, conducted a comprehensive analysis to reveal valuable insights. Subsequently, created an interactive dashboard using Microsoft Power BI, enabling users to select and compare the nutritional content of menu items from different restaurants. The dashboard boasts an intuitive interface with slicing functionality, allowing users to easily explore the nutrition profiles of menu items. This project serves as a valuable resource for health-conscious consumers and restaurant stakeholders seeking to make informed decisions about menu offerings, offering a comprehensive nutritional analysis for each selected restaurant.
+
 
 ## Project Highlights:
 ### 1) Analysis with sql
